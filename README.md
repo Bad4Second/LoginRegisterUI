@@ -1,6 +1,6 @@
 # LoginRegisterUI
-Adding Login &amp; Register Features to Your PocketMine-MP Server
-
+This plugin is useful for your servers that disable the **xbox-auth: off** feature on **server.properties** so that players who don't link xbox accounts can't enter the server using the Admin/Owner account
+֍ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ֍
 <p align="center">
     <a href="https://zeeoneofc.github.io">
         <img
@@ -10,16 +10,14 @@ Adding Login &amp; Register Features to Your PocketMine-MP Server
     </a>
 </p>
 </div>
-
-
-
+֍ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ֍
 ## Instalation
-```Open Your Website Hosting
+```
+Open Your Website Hosting
 > Click File Manager
 > Open Folder plugins
 > Click Upload
-> Search LoginRegisterUI.zip / LoginRegisterUI
-.phar & Click
+> Search LoginRegisterUI & Click This File
 > Back to Console
 > and Restart your Server
 ```
