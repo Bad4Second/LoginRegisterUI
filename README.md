@@ -10,7 +10,6 @@ This plugin is useful for your servers that disable the **xbox-auth: off** featu
         />
     </a>
 </p>
-</div>
 ֍━━━━━━━━━━━━━━━━━━━━֍
 
 ## Instalation
