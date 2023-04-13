@@ -1,6 +1,7 @@
 # LoginRegisterUI
 This plugin is useful for your servers that disable the **xbox-auth: off** feature on **server.properties** so that players who don't link xbox accounts can't enter the server using the Admin/Owner account
-֍ ━━━━━━━━━━━━━━━━━━━━━━━ ֍
+
+֍━━━━━━━━━━━━━━━━━━━━━֍
 <p align="center">
     <a href="https://youtube.com/@fredymaruf">
         <img
@@ -10,7 +11,7 @@ This plugin is useful for your servers that disable the **xbox-auth: off** featu
     </a>
 </p>
 </div>
-֍ ━━━━━━━━━━━━━━━━━━━━━━━ ֍
+֍━━━━━━━━━━━━━━━━━━━━━֍
 
 ## Instalation
 ```
