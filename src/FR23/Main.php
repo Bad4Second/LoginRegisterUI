@@ -6,12 +6,13 @@ use pocketmine\plugin\PluginBase;
 use pocketmine\player\Player;
 use pocketmine\utils\Config;
 use pocketmine\utils\TextFormat;
+use jojoe77777\FormAPI\FormAPI;
 use jojoe77777\FormAPI\SimpleForm;
 use jojoe77777\FormAPI\CustomForm;
-use FR23\EventListener;
 
 class Main extends PluginBase {
 
+    private $config;
     private $players;
 
     public function onEnable(): void {
